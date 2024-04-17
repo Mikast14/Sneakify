@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "productname": "Nike Air Force 1 Flyknit 2.0",
+        "productinfo": "Shoes",
+        "price": "€ 119,99",
+        "image":"img/air-force-1-flyknit-2-schoen.png"
+    },
+    {
+        "id": 2,
+        "productname": "Nike Air Max 1",
+        "productinfo": "Men's shoes",
+        "price": "€ 149,99",
+        "image":"img/air-max-1-shoes.png"
+    }
+    
+]
