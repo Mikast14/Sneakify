@@ -12,6 +12,26 @@
         "productinfo": "Men's shoes",
         "price": "€ 149,99",
         "image":"img/air-max-1-shoes.png"
+    },
+    {
+        "id": 3,
+        "productname": "Nike Court Vision Low Next Nature", 
+        "productinfo": "Men's shoes",
+        "price": "€ 79,99",
+        "image":"img/court-vision-low-next-nature-shoes-.png"
+    },
+    {
+        "id": 4,
+        "productname": "Nike Air Force 1'07 EasyOn", 
+        "productinfo": "Womens's shoes",
+        "price": "€ 119,99",
+        "image":"img/air-force-1-07-easyon-shoespng.png"
+    },
+    {
+        "id": 5,
+        "productname": "Nike Air Max 1 SC", 
+        "productinfo": "Men's shoes",
+        "price": "€ 149,99",
+        "image":"img/air-max-1-sc-shoes.png"
     }
-    
 ]
