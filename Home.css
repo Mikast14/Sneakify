@@ -23,6 +23,7 @@ body {
 
 body {
   margin: 0;
+  
 }
 
 .navbar {
@@ -223,19 +224,17 @@ body {
 }
 .trending-title {
   font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
-  margin: 1rem;
+  margin-left: 3rem;
 }
 .shoe-card{
   display: flex;
   position: relative;
   margin: 1rem;
   padding: 1rem;
-  border-radius: 1rem;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease-in-out;
 }
 .shoe-card img {
-  width: 598.617px;
+  width: 508.617px;
   height: auto;
   font-family: "Helvetica Now Text", Helvetica, Arial, sans-serif;
 }
@@ -264,14 +263,7 @@ body {
 .product {
   margin: 1rem;
 }
-.myObjectClass {
-  scrollbar-width: thin; /* Adjust the width as needed */
-}
-
-.myObjectClass::-webkit-scrollbar-thumb {
-  background-color: #888; /* Color of the scrollbar */
-  border-radius: 10px; /* Rounded corners */
-}
-:root{
-  scrollbar-color:  rgb(50,50,50) black;
-  scrollbar-width: thin; }
+:root {
+  scrollbar-color: rgba(50, 50, 50, 0.37) rgba(255, 255, 0, 0);
+  scrollbar-width: thin;
+} 
